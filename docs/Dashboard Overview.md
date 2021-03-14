@@ -15,4 +15,4 @@ Ready? Let's get started by following [here](/dashboard_usage).
 ## Dashboard Troubleshooting
 Find the solutions to your query [here](/dashboard_troubleshooting).
 
-Got any concerns or feedback towards the dashboard? Join our [**Discord Support Server**](https://rythmbot.co/support).
+yes
